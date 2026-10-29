@@ -5,7 +5,8 @@
 - **CCID:** mthind
 
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
+- CMPUT 301 Lab 8 instructions and slides
+- ChatGPT (OpenAI) for guidance with testing
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+N/A 
